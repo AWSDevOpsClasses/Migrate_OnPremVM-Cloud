@@ -1,4 +1,4 @@
-﻿# Migrate_OnPremVM-Cloud
+﻿# Migrate_VagrantOnPremVM-AWSEC2Cloud
 
 # Migrating On Premise VM to AWS | VM Import/Export | Create EC2 instance based on on-premises server
 
